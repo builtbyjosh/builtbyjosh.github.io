@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "Why I code"
+date:       2020-07-29 03:40:05 +0000
+permalink:  why_i_code
+---
+
+
+I originally went to school for computer networking. However, at the time of my graduation, our country went through a recession. So i was unable to find a suitable career in my field that paid as well as the career track I was currently on. So I managed to find a suitibal replacement career in CNC machining for several years. This eventually led me down the path of 3D printing. Through this career path, I started to get more and more invovled into the world of code. With 3D printing, it was mostly just changing things within the arduino code that had already been written for the printer operating system. But I wanted more.
+
+After a period of research, I eventually landed on web development as a jumping off point for coding. I had experience in the past dealing with code. But this was the best way for me to get back into the environment. It was easy enough to pick up and didnt require me to sacrifice to much of my free time. But I have found out that if I want to really excell at this, I have to put forth the effort and devote the time.
+
+I decided to go to a coding bootcamp because I wanted to make sure I could provide for my son. I do not want have to break my back trying to make sure my son can have an instrument or a class or an go to a class. I want to make sure that I can provide any future that he may need.
