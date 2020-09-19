@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The First Project"
-date:       2020-09-19 20:12:11 +0000
+date:       2020-09-19 16:12:11 -0400
 permalink:  the_first_project
 ---
 
