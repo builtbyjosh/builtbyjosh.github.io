@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Make something helpfull"
+title:      "Make something helpful"
 date:       2020-11-11 23:07:28 -0500
 permalink:  make_something_helpfull
 ---
